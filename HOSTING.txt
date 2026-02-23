@@ -1,0 +1,11 @@
+How to host this site
+---------------------
+Upload the entire "site" folder to any static web host.
+
+Options:
+• GitHub Pages: Push the repo, go to Settings → Pages → Source: main branch, folder: /site (or root if site is the repo root). Your site will be at https://<username>.github.io/<repo>/ (use "site" as root if you only upload the site folder).
+• Netlify: Drag and drop the "site" folder at https://app.netlify.com/drop
+• Vercel: Run "npx vercel" in the folder containing "site" and set root to "site"
+• Any web host: Upload the contents of "site" to your public_html or www directory. Open index.html as the home page.
+
+Important: Use a web server (or a host that serves index.html for directories). Opening index.html directly from file:// may break navigation and JSON loading in some browsers.

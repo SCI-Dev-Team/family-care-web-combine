@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stories — Family Care First</title>
+  <link rel="stylesheet" href="./styles.css">
+  <style>
+    .site-nav { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; padding: 12px 16px; }
+    .site-nav a { color: #fff; text-decoration: none; font-size: 14px; font-weight: 600; }
+    .site-nav a:hover { text-decoration: underline; }
+    .site-nav a.current { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="m-wrapper">
+    <header class="intro-area background-header">
+      <div class="header-overlay">
+        <nav class="site-nav">
+          <a href="../">Home</a>
+          <a href="../posts/">Posts</a>
+          <a href="../stories/" class="current">Stories</a>
+          <a href="../reports/">Reports</a>
+        </nav>
+        <div class="container big-slider">
+          <div class="big-slider-content">
+            <h1>Family Care First Stories</h1>
+            <p>Story archive rendered from extracted JSON</p>
+          </div>
+          <div class="curse-bg"></div>
+        </div>
+      </div>
+    </header>
+  </div>
+
+  <main class="about-page-area area-padding">
+    <section class="container">
+      <div class="member-category">
+        <button class="filter-btn active" data-category="all">All Categories</button>
+      </div>
+
+      <div class="mobile-filter">
+        <label for="categorySelect">Select Category</label>
+        <select id="categorySelect">
+          <option value="all">All Categories</option>
+        </select>
+      </div>
+
+      <div class="post-result" id="resultText">Loading stories...</div>
+
+      <div id="storyGrid" class="row story-grid"></div>
+      <div class="list-actions">
+        <button id="loadMoreBtn" class="btn-load-more" hidden>Load More</button>
+      </div>
+    </section>
+  </main>
+
+  <aside id="storyModal" class="story-modal" aria-hidden="true">
+    <div class="story-modal-inner">
+      <button id="closeModalBtn" class="close-btn" aria-label="Close">x</button>
+      <div id="modalContent"></div>
+    </div>
+  </aside>
+
+  <script src="./app.js"></script>
+</body>
+</html>

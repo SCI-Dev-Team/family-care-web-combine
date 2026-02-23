@@ -1,0 +1,2592 @@
+[
+  {
+    "id": 7989,
+    "post_type": "wpdmpro",
+    "title": "Lessons Learned in Residential Care Institution Transition and Closure",
+    "slug": "lessons-learned-in-residential-care-institution-transition-and-closure",
+    "date": "2024-11-05 09:32:32",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Lessons-Learned-in-RCI-Transition-Kh-Eng.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7988,
+    "post_type": "wpdmpro",
+    "title": "Kinship and Foster Care: Understanding Current Practice in Cambodia",
+    "slug": "kinship-and-foster-care-understanding-current-practice-in-cambodia",
+    "date": "2024-11-05 09:30:02",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Foster-Care-and-Kinship-Care-KH-Eng.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7975,
+    "post_type": "wpdmpro",
+    "title": "Foster Care and Kinship Care Khmer",
+    "slug": "foster-care-and-kinship-care-khmer",
+    "date": "2024-10-10 16:30:45",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Foster-Care-and-Kinship-Care-Khmer.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7974,
+    "post_type": "wpdmpro",
+    "title": "Foster Care and Kinship Care English",
+    "slug": "foster-care-and-kinship-care-english",
+    "date": "2024-10-10 16:30:11",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Foster-Care-and-Kinship-Care-English.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7973,
+    "post_type": "wpdmpro",
+    "title": "Lessons Learned in RCI Transition- Khmer",
+    "slug": "lessons-learned-in-rci-transition-khmer",
+    "date": "2024-10-10 16:24:06",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Lessons-Learned-in-RCI-Transition-Khmer-1.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7972,
+    "post_type": "wpdmpro",
+    "title": "Lessons Learned in RCI Transition English",
+    "slug": "lessons-learned-in-rci-transition-english",
+    "date": "2024-10-10 16:23:31",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Lessons-Learned-in-RCI-Transition-English.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7927,
+    "post_type": "wpdmpro",
+    "title": "CVA  CP 2023 - Evidence building report",
+    "slug": "cva-cp-2023-evidence-building-report",
+    "date": "2024-03-22 16:48:10",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Child Protection[:]",
+        "slug": "child-protection"
+      },
+      {
+        "name": "[:en]Learning Space[:]",
+        "slug": "learning-space"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/CVA-CP-2023-Evidence-building-report.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7367,
+    "post_type": "wpdmpro",
+    "title": "FCF-REACT Endline Report",
+    "slug": "fcf-react-endline-report",
+    "date": "2022-06-27 09:54:28",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF-REACT Endline Report_Final.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7087,
+    "post_type": "wpdmpro",
+    "title": "Sustainability Strategy Research_Khmer",
+    "slug": "sustainability-strategy-research_khmer",
+    "date": "2022-01-18 16:06:12",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/1642649359wpdm_Sustainability Strategy Research_Khmer.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 7086,
+    "post_type": "wpdmpro",
+    "title": "Sustainability Strategy Research_English",
+    "slug": "sustainability-strategy-research_english",
+    "date": "2022-01-18 16:04:45",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Sustainability Strategy Research_English.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6904,
+    "post_type": "wpdmpro",
+    "title": "Organizational Strengths Self-Assessment Results",
+    "slug": "organizational-strengths-self-assessment-results",
+    "date": "2021-09-30 08:43:05",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Organizational Strengths Self-Assessment (1-20).xlsx"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6891,
+    "post_type": "wpdmpro",
+    "title": "EU ROM (Results Oriented Monitoring) - Result and Recommendations",
+    "slug": "eu-rom-results-oriented-monitoring-result-and-recommendations",
+    "date": "2021-09-20 17:50:09",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/1632134992wpdm_C-401895_ROM Report_Final_20210525.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6886,
+    "post_type": "wpdmpro",
+    "title": "2020 Partner Survey - Report on Key Information Interviews",
+    "slug": "2020-partner-survey-report-on-key-information-interviews",
+    "date": "2021-09-09 08:39:14",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Branding Polished_2020 FCF REACT survey KII report_Final 07April21.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6881,
+    "post_type": "wpdmpro",
+    "title": "FCF | REACT Baseline/Indicator Study",
+    "slug": "fcf-react-baseline-indicator-study",
+    "date": "2021-09-01 16:32:30",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF-REACT Baseline-Indicator Study.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6880,
+    "post_type": "wpdmpro",
+    "title": "FCF | REACT Cash and Livelihoods Monitoring and Evaluation – PDM1 Report",
+    "slug": "fcf-react-cash-and-livelihoods-monitoring-and-evaluation-pdm1-report",
+    "date": "2021-09-01 16:25:52",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF | REACT Cash and Livelihoods Monitoring and Evaluation – PDM1 Report.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6879,
+    "post_type": "wpdmpro",
+    "title": "FCF | REACT Cash and Livelihoods Monitoring and Evaluation - PDM2 Report",
+    "slug": "fcf-react-cash-and-livelihoods-monitoring-and-evaluation-pdm2-report",
+    "date": "2021-09-01 16:07:00",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF REACT Cash and Livelihoods Monitoring and Evaluation - PDM2 Report.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6878,
+    "post_type": "wpdmpro",
+    "title": "Barriers and facilitators to fostering children with disabilities in Cambodia",
+    "slug": "barriers-and-facilitators-to-fostering-children-with-disabilities-in-cambodia",
+    "date": "2021-09-01 15:53:33",
+    "excerpt": "",
+    "content": "Barriers and facilitators to fostering children with disabilities in Cambodia",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Barriers and facilitators to fostering children with disabilities in Cambodia.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6634,
+    "post_type": "practitioner_library",
+    "title": "[:en]Khmer: Report on Results of the Implementation of the Action Plan for Improving Child Care with the Target of Safely Returning 30 Percent of Children in Residential Care to their Families by 2019[:]",
+    "slug": "khmer-report-on-results-of-the-implementation-of-the-action-plan-for-improving-child-care-with-the-target-of-safely-returning-30-percent-of-children-in-residential-care-to-their-families-by-2019",
+    "date": "2021-07-25 09:07:38",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/khmer-report-on-results-of-the-implementation-of-the-action-plan-for-improving-child-care-with-the",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6636,
+    "post_type": "practitioner_library",
+    "title": "[:en]Report on Results of the Implementation of the Action Plan for Improving Child Care with the Target of Safely Returning 30 Percent of Children in Residential Care to their Families by 2019[:]",
+    "slug": "report-on-results-of-the-implementation-of-the-action-plan-for-improving-child-care-with-the-target-of-safely-returning-30-percent-of-children-in-residential-care-to-their-families-by-2019",
+    "date": "2021-07-25 09:07:18",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/report-on-results-of-the-implementation-of-the-action-plan-for-improving-child-care-with-the-target",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6643,
+    "post_type": "practitioner_library",
+    "title": "[:en]Evaluation of Ghana's Child Protection System Strengthening Initiatives at the District Level: Final Report[:]",
+    "slug": "evaluation-of-ghanas-child-protection-system-strengthening-initiatives-at-the-district-level-final-report-2",
+    "date": "2021-07-25 09:06:08",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/social-service-workforce-strengthening/evaluation-of-ghanas-child-protection-system-strengthening-initiatives-at-the-district-level-final",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6599,
+    "post_type": "practitioner_library",
+    "title": "[:en]Performance Audit Report of the Auditor General on the Regulation of Residential Homes for Children (Orphanages) by the Department of Social Welfare (DSW)[:]",
+    "slug": "performance-audit-report-of-the-auditor-general-on-the-regulation-of-residential-homes-for-children-orphanages-by-the-department-of-social-welfare-dsw",
+    "date": "2021-07-25 09:05:28",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/residential-care/performance-audit-report-of-the-auditor-general-on-the-regulation-of-residential-homes-for-children",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6481,
+    "post_type": "practitioner_library",
+    "title": "[:en]Hidden in Plain Sight: Modern Slavery Inquiry Report[:]",
+    "slug": "hidden-in-plain-sight-modern-slavery-inquiry-report",
+    "date": "2021-07-25 09:03:58",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/transforming-institutional-care/hidden-in-plain-sight-modern-slavery-inquiry-report",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6663,
+    "post_type": "practitioner_library",
+    "title": "[:en]Draft Government of the Republic of Sierra Leone Initial Report on the African Charter on the Rights and Welfare of the Child 2002 - 2014[:]",
+    "slug": "draft-government-of-the-republic-of-sierra-leone-initial-report-on-the-african-charter-on-the-rights-and-welfare-of-the-child-2002-2014",
+    "date": "2021-07-25 09:02:48",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/child-care-and-protection-policies/draft-government-of-the-republic-of-sierra-leone-initial-report-on-the-african-charter-on-the-rights",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6664,
+    "post_type": "practitioner_library",
+    "title": "[:en]Residential Children's Homes: Sixth Report of Session 2013–14[:]",
+    "slug": "residential-childrens-homes-sixth-report-of-session-2013-14",
+    "date": "2021-07-25 09:02:38",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/residential-care/residential-childrens-homes-sixth-report-of-session-2013%E2%80%9314",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6551,
+    "post_type": "practitioner_library",
+    "title": "[:en]Summary advisory report ‘Reflection on Intercountry Adoption’ of the Council for the Administration of Criminal Justice and Protection of Juveniles[:]",
+    "slug": "summary-advisory-report-reflection-on-intercountry-adoption-of-the-council-for-the-administration-of-criminal-justice-and-protection-of-juveniles-2",
+    "date": "2021-07-25 09:01:36",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/adoption-and-kafala/summary-advisory-report-%E2%80%98reflection-on-intercountry-adoption%E2%80%99-of-the-council-for-the-administration",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6564,
+    "post_type": "practitioner_library",
+    "title": "[:en]Assessment Report of the Alternative Care System for Children in Zimbabwe[:]",
+    "slug": "assessment-report-of-the-alternative-care-system-for-children-in-zimbabwe",
+    "date": "2021-07-25 08:59:26",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/child-care-and-protection-policies/assessment-report-of-the-alternative-care-system-for-children-in-zimbabwe",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6565,
+    "post_type": "practitioner_library",
+    "title": "[:en]Assessment Report of the Alternative Care System for Children in Malawi[:]",
+    "slug": "assessment-report-of-the-alternative-care-system-for-children-in-malawi",
+    "date": "2021-07-25 08:59:16",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/child-care-and-protection-policies/assessment-report-of-the-alternative-care-system-for-children-in-malawi",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6568,
+    "post_type": "practitioner_library",
+    "title": "[:en]India: Annual Report of the Ministry of Women and Child Development[:]",
+    "slug": "india-annual-report-of-the-ministry-of-women-and-child-development",
+    "date": "2021-07-25 08:58:46",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/child-care-and-protection-policies/india-annual-report-of-the-ministry-of-women-and-child-development",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6358,
+    "post_type": "practitioner_library",
+    "title": "[:en]National Youth in Transition Database (NYTD) Data Brief #6: Comparing Outcomes Reported by Young People at Ages 17 and 19 in NYTD Cohort 2[:]",
+    "slug": "national-youth-in-transition-database-nytd-data-brief-6-comparing-outcomes-reported-by-young-people-at-ages-17-and-19-in-nytd-cohort-2-2",
+    "date": "2021-07-25 08:58:25",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/national-youth-in-transition-database-nytd-data-brief-6-comparing-outcomes-reported-by-young-people",
+    "terms": [
+      {
+        "name": "[:en]Data[:kh]ទិន្នន័យ[:]",
+        "slug": "data",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6330,
+    "post_type": "practitioner_library",
+    "title": "[:en]Children in Institutions: Prevention and Alternative Care: Final Report[:]",
+    "slug": "children-in-institutions-prevention-and-alternative-care-final-report-2",
+    "date": "2021-07-25 08:57:52",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/toolkit/developing-an-informed-national-care-strategy/reducing-institutionsincreasing-community-based-care/children-in-institutions-prevention-and-alternative-care-final-report",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6276,
+    "post_type": "practitioner_library",
+    "title": "[:en]An analysis of Ofsted inspection reports for children's social care services in England[:]",
+    "slug": "an-analysis-of-ofsted-inspection-reports-for-childrens-social-care-services-in-england",
+    "date": "2021-07-25 08:56:27",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/child-care-and-protection-policies/an-analysis-of-ofsted-inspection-reports-for-childrens-social-care-services-in-england",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6371,
+    "post_type": "practitioner_library",
+    "title": "[:en]Measuring Separation in Emergencies: Pilot Summary Report Democratic Republic of Congo Community-Based Surveillance Method August - October 2014[:]",
+    "slug": "measuring-separation-in-emergencies-pilot-summary-report-democratic-republic-of-congo-community-based-surveillance-method-august-october-2014",
+    "date": "2021-07-25 08:56:15",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/separated-children-in-an-emergency/registration-documentation-and-tracing/measuring-separation-in-emergencies-pilot-summary-report-democratic-republic-of-congo-community",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6203,
+    "post_type": "practitioner_library",
+    "title": "[:en]Building Positive Futures: A Pilot Study on Leaving Care in Africa - Youth Report[:]",
+    "slug": "building-positive-futures-a-pilot-study-on-leaving-care-in-africa-youth-report-2",
+    "date": "2021-07-25 08:54:22",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/building-positive-futures-a-pilot-study-on-leaving-care-in-africa-youth-report",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6209,
+    "post_type": "practitioner_library",
+    "title": "[:en]Factors that Promote or Hinder a Youth in Care Network: A Report from the Field[:]",
+    "slug": "factors-that-promote-or-hinder-a-youth-in-care-network-a-report-from-the-field-2",
+    "date": "2021-07-25 08:53:22",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/child-participation/factors-that-promote-or-hinder-a-youth-in-care-network-a-report-from-the-field",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6215,
+    "post_type": "practitioner_library",
+    "title": "[:en]The Care Leaver Experience: A Report on Children and Young People’s Experiences in and After Leaving Residential Care in Uganda[:]",
+    "slug": "the-care-leaver-experience-a-report-on-children-and-young-peoples-experiences-in-and-after-leaving-residential-care-in-uganda",
+    "date": "2021-07-25 08:52:22",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/the-care-leaver-experience-a-report-on-children-and-young-people%E2%80%99s-experiences-in-and-after-leaving",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6180,
+    "post_type": "practitioner_library",
+    "title": "[:en]Evaluation of Ghana's Child Protection System Strengthening Initiatives at the District Level: Final Report[:]",
+    "slug": "evaluation-of-ghanas-child-protection-system-strengthening-initiatives-at-the-district-level-final-report",
+    "date": "2021-07-25 08:51:00",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/social-service-workforce-strengthening/evaluation-of-ghanas-child-protection-system-strengthening-initiatives-at-the-district-level-final",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6120,
+    "post_type": "practitioner_library",
+    "title": "[:en]Factors that Promote or Hinder a Youth in Care Network: A Report from the Field[:]",
+    "slug": "factors-that-promote-or-hinder-a-youth-in-care-network-a-report-from-the-field",
+    "date": "2021-07-25 08:50:47",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/child-participation/factors-that-promote-or-hinder-a-youth-in-care-network-a-report-from-the-field",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6090,
+    "post_type": "practitioner_library",
+    "title": "[:en]Surveillance Isn’t Safety – How over-reporting and CPS monitoring stress families and weaken communities[:]",
+    "slug": "surveillance-isnt-safety-how-over-reporting-and-cps-monitoring-stress-families-and-weaken-communities",
+    "date": "2021-07-25 08:49:35",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/parent-participation/surveillance-isn%E2%80%99t-safety-%E2%80%93-how-over-reporting-and-cps-monitoring-stress-families-and-weaken",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6063,
+    "post_type": "practitioner_library",
+    "title": "[:en]The State of Funding for Children in SADC Report[:]",
+    "slug": "the-state-of-funding-for-children-in-sadc-report-2",
+    "date": "2021-07-25 08:49:27",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/cost-of-care-and-redirection-of-resources/the-state-of-funding-for-children-in-sadc-report",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6091,
+    "post_type": "practitioner_library",
+    "title": "[:en]Parent Engagement and Leadership Assessment Guide and Toolkit: Comprehensive Report[:]",
+    "slug": "parent-engagement-and-leadership-assessment-guide-and-toolkit-comprehensive-report",
+    "date": "2021-07-25 08:49:25",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/parent-participation/parent-engagement-and-leadership-assessment-guide-and-toolkit-comprehensive-report",
+    "terms": [
+      {
+        "name": "[:en]Tools[:kh]ឧបករណ៍[:]",
+        "slug": "tools",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6129,
+    "post_type": "practitioner_library",
+    "title": "[:en]Tusla’s Programme for Prevention, Partnership and Family Support: Children’s Participation Work Package Final Report[:]",
+    "slug": "tuslas-programme-for-prevention-partnership-and-family-support-childrens-participation-work-package-final-report-2",
+    "date": "2021-07-25 08:49:17",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/child-participation/tusla%E2%80%99s-programme-for-prevention-partnership-and-family-support-children%E2%80%99s-participation-work",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6234,
+    "post_type": "practitioner_library",
+    "title": "[:en]Kenya Careleavers Conference Report: “How I Left Care”[:]",
+    "slug": "kenya-careleavers-conference-report-how-i-left-care",
+    "date": "2021-07-25 08:49:12",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/kenya-careleavers-conference-report-%E2%80%9Chow-i-left-care%E2%80%9D",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6072,
+    "post_type": "practitioner_library",
+    "title": "[:en]Towards a stronger economic evidence base to support child protection reform: from institutions to family based care and community level services: Submission to the UN OHCHR Report on Better Investment in the Rights of the Child[:]",
+    "slug": "towards-a-stronger-economic-evidence-base-to-support-child-protection-reform-from-institutions-to-family-based-care-and-community-level-services-submission-to-the-un-ohchr-report-on-better-investmen",
+    "date": "2021-07-25 08:47:57",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/transforming-institutional-care/towards-a-stronger-economic-evidence-base-to-support-child-protection-reform-from-institutions-to",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6106,
+    "post_type": "practitioner_library",
+    "title": "[:en]Child Welfare Organizing Project: Community Connections - Program Evaluation Final Report[:]",
+    "slug": "child-welfare-organizing-project-community-connections-program-evaluation-final-report",
+    "date": "2021-07-25 08:46:55",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/parent-participation/child-welfare-organizing-project-community-connections-program-evaluation-final-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6018,
+    "post_type": "practitioner_library",
+    "title": "[:en]The State of Funding for Children in SADC Report[:]",
+    "slug": "the-state-of-funding-for-children-in-sadc-report",
+    "date": "2021-07-25 08:46:21",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/cost-of-care-and-redirection-of-resources/the-state-of-funding-for-children-in-sadc-report",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5967,
+    "post_type": "practitioner_library",
+    "title": "[:en]The Evidence Base on the Social Service Workforce: Current Knowledge, Gaps and Future Research Direction - BUILDING EVIDENCE INTEREST GROUP REPORT[:]",
+    "slug": "the-evidence-base-on-the-social-service-workforce-current-knowledge-gaps-and-future-research-direction-building-evidence-interest-group-report",
+    "date": "2021-07-25 08:45:30",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/community-based-care-mechanisms/the-evidence-base-on-the-social-service-workforce-current-knowledge-gaps-and-future-research",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5970,
+    "post_type": "practitioner_library",
+    "title": "[:en]Measuring Separation in Emergencies: Pilot Summary Report Democratic Republic of Congo Population-Based Estimation Method July-August 2014[:]",
+    "slug": "measuring-separation-in-emergencies-pilot-summary-report-democratic-republic-of-congo-population-based-estimation-method-july-august-2014",
+    "date": "2021-07-25 08:45:00",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/separated-children-in-an-emergency/registration-documentation-and-tracing/measuring-separation-in-emergencies-pilot-summary-report-democratic-republic-of-congo-population",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6036,
+    "post_type": "practitioner_library",
+    "title": "[:en]Opportunities in Transition: An Economic Analysis of Investing in Youth Aging out of Foster Care in their 20s - Report 2 of 3: The Costs of the Adverse Outcomes[:]",
+    "slug": "opportunities-in-transition-an-economic-analysis-of-investing-in-youth-aging-out-of-foster-care-in-their-20s-report-2-of-3-the-costs-of-the-adverse-outcomes",
+    "date": "2021-07-25 08:43:21",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/opportunities-in-transition-an-economic-analysis-of-investing-in-youth-aging-out-of-foster-care-in-2",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 6037,
+    "post_type": "practitioner_library",
+    "title": "[:en]Opportunities in Transition: An Economic Analysis of Investing in Youth Aging out of Foster Care in their 20s - Report 3 of 3: Opportunities for Increased Support[:]",
+    "slug": "opportunities-in-transition-an-economic-analysis-of-investing-in-youth-aging-out-of-foster-care-in-their-20s-report-3-of-3-opportunities-for-increased-support",
+    "date": "2021-07-25 08:43:11",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/opportunities-in-transition-an-economic-analysis-of-investing-in-youth-aging-out-of-foster-care-in-0",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5903,
+    "post_type": "practitioner_library",
+    "title": "[:en]Bangkok Small Community Multiple Indicator Cluster Survey 2016: Final Report[:]",
+    "slug": "bangkok-small-community-multiple-indicator-cluster-survey-2016-final-report",
+    "date": "2021-07-25 08:42:50",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/data-and-monitoring-tools/bangkok-small-community-multiple-indicator-cluster-survey-2016-final-report",
+    "terms": [
+      {
+        "name": "[:en]Data[:kh]ទិន្នន័យ[:]",
+        "slug": "data",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5756,
+    "post_type": "practitioner_library",
+    "title": "[:en]Building Positive Futures: A Pilot Study on Leaving Care in Africa - Youth Report[:]",
+    "slug": "building-positive-futures-a-pilot-study-on-leaving-care-in-africa-youth-report",
+    "date": "2021-07-25 08:42:00",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/building-positive-futures-a-pilot-study-on-leaving-care-in-africa-youth-report",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5850,
+    "post_type": "practitioner_library",
+    "title": "[:en]The Report of the Committee for Analysing Data of Mapping and Review Exercise of Child Care Institutions under the Juvenile Justice (Care and Protection of Children) Act, 2015 and Other Homes[:]",
+    "slug": "the-report-of-the-committee-for-analysing-data-of-mapping-and-review-exercise-of-child-care-institutions-under-the-juvenile-justice-care-and-protection-of-children-act-2015-and-other-homes",
+    "date": "2021-07-25 08:41:44",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/residential-care/the-report-of-the-committee-for-analysing-data-of-mapping-and-review-exercise-of-child-care",
+    "terms": [
+      {
+        "name": "[:en]Data[:kh]ទិន្នន័យ[:]",
+        "slug": "data",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5861,
+    "post_type": "practitioner_library",
+    "title": "[:en]National Youth in Transition Database (NYTD) Data Brief #6: Comparing Outcomes Reported by Young People at Ages 17 and 19 in NYTD Cohort 2[:]",
+    "slug": "national-youth-in-transition-database-nytd-data-brief-6-comparing-outcomes-reported-by-young-people-at-ages-17-and-19-in-nytd-cohort-2",
+    "date": "2021-07-25 08:39:54",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/national-youth-in-transition-database-nytd-data-brief-6-comparing-outcomes-reported-by-young-people",
+    "terms": [
+      {
+        "name": "[:en]Data[:kh]ទិន្នន័យ[:]",
+        "slug": "data",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5863,
+    "post_type": "practitioner_library",
+    "title": "[:en]Child Neglect in Arizona: Prevalence of neglect types reported to Arizona’s Department of Child Safety for calendar years 2013-2015[:]",
+    "slug": "child-neglect-in-arizona-prevalence-of-neglect-types-reported-to-arizonas-department-of-child-safety-for-calendar-years-2013-2015",
+    "date": "2021-07-25 08:39:34",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/particular-threats-to-childrens-care-and-protection/child-abuse-and-neglect/child-neglect-in-arizona-prevalence-of-neglect-types-reported-to-arizona%E2%80%99s-department-of-child",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5869,
+    "post_type": "practitioner_library",
+    "title": "[:en]Adoption and Foster Care Analysis and Reporting System (AFCARS) data for Fiscal Year 2015[:]",
+    "slug": "adoption-and-foster-care-analysis-and-reporting-system-afcars-data-for-fiscal-year-2015",
+    "date": "2021-07-25 08:38:34",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/foster-care/adoption-and-foster-care-analysis-and-reporting-system-afcars-data-for-fiscal-year-2015",
+    "terms": [
+      {
+        "name": "[:en]Data[:kh]ទិន្នន័យ[:]",
+        "slug": "data",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5660,
+    "post_type": "practitioner_library",
+    "title": "[:en]Summary advisory report ‘Reflection on Intercountry Adoption’ of the Council for the Administration of Criminal Justice and Protection of Juveniles[:]",
+    "slug": "summary-advisory-report-reflection-on-intercountry-adoption-of-the-council-for-the-administration-of-criminal-justice-and-protection-of-juveniles",
+    "date": "2021-07-25 08:37:51",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/adoption-and-kafala/summary-advisory-report-%E2%80%98reflection-on-intercountry-adoption%E2%80%99-of-the-council-for-the-administration",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5520,
+    "post_type": "practitioner_library",
+    "title": "[:en]What the Pandemic Taught Us: Innovative Practice Report[:]",
+    "slug": "what-the-pandemic-taught-us-innovative-practice-report",
+    "date": "2021-07-25 08:37:43",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/particular-threats-to-childrens-care-and-protection/covid-19/alternative-care-and-covid-19/what-the-pandemic-taught-us-innovative-practice-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5663,
+    "post_type": "practitioner_library",
+    "title": "[:en]Displays of parent suitability in adoption assessment reports[:]",
+    "slug": "displays-of-parent-suitability-in-adoption-assessment-reports",
+    "date": "2021-07-25 08:37:21",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/adoption-and-kafala/displays-of-parent-suitability-in-adoption-assessment-reports",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5938,
+    "post_type": "practitioner_library",
+    "title": "[:en]Rwanda DHS 2010 Report (Draft)[:]",
+    "slug": "rwanda-dhs-2010-report-draft",
+    "date": "2021-07-25 08:37:00",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/data-and-monitoring-tools/rwanda-dhs-2010-report-draft",
+    "terms": [
+      {
+        "name": "[:en]Data[:kh]ទិន្នន័យ[:]",
+        "slug": "data",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5881,
+    "post_type": "practitioner_library",
+    "title": "[:en]Report on Child Protection and Care System in the Republic Of Armenia[:]",
+    "slug": "report-on-child-protection-and-care-system-in-the-republic-of-armenia",
+    "date": "2021-07-25 08:36:34",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/child-care-and-protection-policies/report-on-child-protection-and-care-system-in-the-republic-of-armenia",
+    "terms": [
+      {
+        "name": "[:en]Data[:kh]ទិន្នន័យ[:]",
+        "slug": "data",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5670,
+    "post_type": "practitioner_library",
+    "title": "[:en]FY 2012 Annual Report on Intercountry Adoption January 2013[:]",
+    "slug": "fy-2012-annual-report-on-intercountry-adoption-january-2013",
+    "date": "2021-07-25 08:36:11",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/adoption-and-kafala/fy-2012-annual-report-on-intercountry-adoption-january-2013",
+    "terms": [
+      {
+        "name": "[:en]Data[:kh]ទិន្នន័យ[:]",
+        "slug": "data",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5446,
+    "post_type": "practitioner_library",
+    "title": "[:en]Application of the Case Management Methodology Process: Guatemala Report[:]",
+    "slug": "application-of-the-case-management-methodology-process-guatemala-report-4",
+    "date": "2021-07-25 08:35:24",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/application-of-the-case-management-methodology-process-guatemala-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5631,
+    "post_type": "practitioner_library",
+    "title": "[:en]Adoption as a Child Protection Measure in the Republic of Armenia: Assessment Report[:]",
+    "slug": "adoption-as-a-child-protection-measure-in-the-republic-of-armenia-assessment-report",
+    "date": "2021-07-25 08:33:12",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/adoption-and-kafala/adoption-as-a-child-protection-measure-in-the-republic-of-armenia-assessment-report",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5269,
+    "post_type": "practitioner_library",
+    "title": "[:en]Application of the Case Management Methodology Process: Guatemala Report[:]",
+    "slug": "application-of-the-case-management-methodology-process-guatemala-report-2",
+    "date": "2021-07-25 08:32:38",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/application-of-the-case-management-methodology-process-guatemala-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5270,
+    "post_type": "practitioner_library",
+    "title": "[:en]Partnering for Family Success: Final Evaluation Report[:]",
+    "slug": "partnering-for-family-success-final-evaluation-report",
+    "date": "2021-07-25 08:32:28",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/social-protection-policies-and-programmes/partnering-for-family-success-final-evaluation-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5304,
+    "post_type": "practitioner_library",
+    "title": "[:en]Application of the Case Management Methodology Process: Guatemala Report[:]",
+    "slug": "application-of-the-case-management-methodology-process-guatemala-report-3",
+    "date": "2021-07-25 08:31:51",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/application-of-the-case-management-methodology-process-guatemala-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5241,
+    "post_type": "practitioner_library",
+    "title": "[:en]Application of the Case Management Methodology Process: Guatemala Report[:]",
+    "slug": "application-of-the-case-management-methodology-process-guatemala-report",
+    "date": "2021-07-25 08:31:40",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/application-of-the-case-management-methodology-process-guatemala-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5306,
+    "post_type": "practitioner_library",
+    "title": "[:en]Partnering for Family Success: Final Evaluation Report[:]",
+    "slug": "partnering-for-family-success-final-evaluation-report-2",
+    "date": "2021-07-25 08:31:31",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/social-protection-policies-and-programmes/partnering-for-family-success-final-evaluation-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5278,
+    "post_type": "practitioner_library",
+    "title": "[:en]Tusla’s Programme for Prevention, Partnership and Family Support: Children’s Participation Work Package Final Report[:]",
+    "slug": "tuslas-programme-for-prevention-partnership-and-family-support-childrens-participation-work-package-final-report",
+    "date": "2021-07-25 08:31:08",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/child-participation/tusla%E2%80%99s-programme-for-prevention-partnership-and-family-support-children%E2%80%99s-participation-work",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5252,
+    "post_type": "practitioner_library",
+    "title": "[:en]Guidelines for Assessment Reports[:]",
+    "slug": "guidelines-for-assessment-reports",
+    "date": "2021-07-25 08:29:50",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/toolkit/individual-assessments-care-planning-and-family-reunification/assessment-forms-and-guidance/guidelines-for-assessment-reports",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5160,
+    "post_type": "practitioner_library",
+    "title": "[:en]ASPIRES Family Care: Economic Strengthening Interventions to Prevent Family Separation and Support Reintegration of Children in Family Care (ESFAM) Project Endline Quantitative Findings Report[:]",
+    "slug": "aspires-family-care-economic-strengthening-interventions-to-prevent-family-separation-and-support-reintegration-of-children-in-family-care-esfam-project-endline-quantitative-findings-report",
+    "date": "2021-07-25 08:29:21",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/aspires-family-care-economic-strengthening-interventions-to-prevent-family-separation-and-support",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5162,
+    "post_type": "practitioner_library",
+    "title": "[:en]ASPIRES Family Care Qualitative Research Report[:]",
+    "slug": "aspires-family-care-qualitative-research-report",
+    "date": "2021-07-25 08:29:01",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/aspires-family-care-qualitative-research-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5291,
+    "post_type": "practitioner_library",
+    "title": "[:en]Children in Institutions: Prevention and Alternative Care: Final Report[:]",
+    "slug": "children-in-institutions-prevention-and-alternative-care-final-report",
+    "date": "2021-07-25 08:28:58",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/toolkit/developing-an-informed-national-care-strategy/reducing-institutionsincreasing-community-based-care/children-in-institutions-prevention-and-alternative-care-final-report",
+    "terms": [
+      {
+        "name": "[:en]Articles[:kh]អត្ថបទ[:]",
+        "slug": "articles",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5163,
+    "post_type": "practitioner_library",
+    "title": "[:en]ASPIRES Family Care Summary Research Report[:]",
+    "slug": "aspires-family-care-summary-research-report",
+    "date": "2021-07-25 08:28:51",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/aspires-family-care-summary-research-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5164,
+    "post_type": "practitioner_library",
+    "title": "[:en]ASPIRES Family Care Family Resilience (FARE) Project: Endline Quantitative Findings Report[:]",
+    "slug": "aspires-family-care-family-resilience-fare-project-endline-quantitative-findings-report",
+    "date": "2021-07-25 08:28:41",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/aspires-family-care-family-resilience-fare-project-endline-quantitative-findings-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5171,
+    "post_type": "practitioner_library",
+    "title": "[:en]Accelerating Strategies for Practical Innovation and Research in Economic Strengthening (ASPIRES) 2015-2018: Family Resilience (FARE) Project End of Project Report[:]",
+    "slug": "accelerating-strategies-for-practical-innovation-and-research-in-economic-strengthening-aspires-2015-2018-family-resilience-fare-project-end-of-project-report",
+    "date": "2021-07-25 08:27:31",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/accelerating-strategies-for-practical-innovation-and-research-in-economic-strengthening-aspires-2015",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5179,
+    "post_type": "practitioner_library",
+    "title": "[:en]Endline Report: Economic Strengthening to Keep and Reintegrate Children into Families (ESFAM) Project[:]",
+    "slug": "endline-report-economic-strengthening-to-keep-and-reintegrate-children-into-families-esfam-project",
+    "date": "2021-07-25 08:26:11",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/endline-report-economic-strengthening-to-keep-and-reintegrate-children-into-families-esfam-project",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5344,
+    "post_type": "practitioner_library",
+    "title": "[:en]Endline Evaluation Report of Deinstitutionalization of Orphans and Vulnerable Children Project in Uganda[:]",
+    "slug": "endline-evaluation-report-of-deinstitutionalization-of-orphans-and-vulnerable-children-project-in-uganda-2",
+    "date": "2021-07-25 08:25:11",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/transforming-institutional-care/endline-evaluation-report-of-deinstitutionalization-of-orphans-and-vulnerable-children-project-in",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5345,
+    "post_type": "practitioner_library",
+    "title": "[:en]Endline Report: Economic Strengthening to Keep and Reintegrate Children into Families (ESFAM) Project[:]",
+    "slug": "endline-report-economic-strengthening-to-keep-and-reintegrate-children-into-families-esfam-project-2",
+    "date": "2021-07-25 08:25:01",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/endline-report-economic-strengthening-to-keep-and-reintegrate-children-into-families-esfam-project",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5350,
+    "post_type": "practitioner_library",
+    "title": "[:en]Final Report: Children in Moldova are Cared for in Safe and Secure Families Project[:]",
+    "slug": "final-report-children-in-moldova-are-cared-for-in-safe-and-secure-families-project-2",
+    "date": "2021-07-25 08:24:11",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/parenting-support/final-report-children-in-moldova-are-cared-for-in-safe-and-secure-families-project",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5191,
+    "post_type": "practitioner_library",
+    "title": "[:en]Household Economic Strengthening Interventions in Programs to Reintegrate Children in Family Care and Prevent Family-Child Separation: A Brief Report on Responses to an Online Survey[:]",
+    "slug": "household-economic-strengthening-interventions-in-programs-to-reintegrate-children-in-family-care-and-prevent-family-child-separation-a-brief-report-on-responses-to-an-online-survey",
+    "date": "2021-07-25 08:24:11",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/household-economic-strengthening-interventions-in-programs-to-reintegrate-children-in-family-care",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5351,
+    "post_type": "practitioner_library",
+    "title": "[:en]ChildFund Deinstitutionalization of Vulnerable Children in Uganda (DOVCU) Final Report[:]",
+    "slug": "childfund-deinstitutionalization-of-vulnerable-children-in-uganda-dovcu-final-report-2",
+    "date": "2021-07-25 08:24:01",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/transforming-institutional-care/childfund-deinstitutionalization-of-vulnerable-children-in-uganda-dovcu-final-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5354,
+    "post_type": "practitioner_library",
+    "title": "[:en]Emerging Practice of Alternative Care for Children in Cambodia Research Findings - Summary Report[:]",
+    "slug": "emerging-practice-of-alternative-care-for-children-in-cambodia-research-findings-summary-report",
+    "date": "2021-07-25 08:23:31",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/leaving-alternative-care-and-reintegration/emerging-practice-of-alternative-care-for-children-in-cambodia-research-findings-summary-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5366,
+    "post_type": "practitioner_library",
+    "title": "[:en]Household Economic Strengthening Interventions in Programs to Reintegrate Children in Family Care and Prevent Family-Child Separation: A Brief Report on Responses to an Online Survey[:]",
+    "slug": "household-economic-strengthening-interventions-in-programs-to-reintegrate-children-in-family-care-and-prevent-family-child-separation-a-brief-report-on-responses-to-an-online-survey-2",
+    "date": "2021-07-25 08:21:31",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/household-economic-strengthening/household-economic-strengthening-interventions-in-programs-to-reintegrate-children-in-family-care",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5374,
+    "post_type": "practitioner_library",
+    "title": "[:en]Strong Beginnings – A family for all children: End of Project Evaluation Report[:]",
+    "slug": "strong-beginnings-a-family-for-all-children-end-of-project-evaluation-report-2",
+    "date": "2021-07-25 08:20:11",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/foster-care/strong-beginnings-%E2%80%93-a-family-for-all-children-end-of-project-evaluation-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5041,
+    "post_type": "practitioner_library",
+    "title": "[:en]Final Report: Children in Moldova are Cared for in Safe and Secure Families Project[:]",
+    "slug": "final-report-children-in-moldova-are-cared-for-in-safe-and-secure-families-project",
+    "date": "2021-07-25 08:18:07",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/strengthening-family-care/parenting-support/final-report-children-in-moldova-are-cared-for-in-safe-and-secure-families-project",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4973,
+    "post_type": "practitioner_library",
+    "title": "[:en]Global Report: UNAIDS report on the global AIDS epidemic 2010[:]",
+    "slug": "global-report-unaids-report-on-the-global-aids-epidemic-2010",
+    "date": "2021-07-25 08:17:12",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/particular-threats-to-childrens-care-and-protection/children-affected-by-hiv-and-aids/global-report-unaids-report-on-the-global-aids-epidemic-2010",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4974,
+    "post_type": "practitioner_library",
+    "title": "[:en]Children and AIDS: Fourth Stocktaking Report[:]",
+    "slug": "children-and-aids-fourth-stocktaking-report",
+    "date": "2021-07-25 08:17:02",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/particular-threats-to-childrens-care-and-protection/children-affected-by-hiv-and-aids/children-and-aids-fourth-stocktaking-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4980,
+    "post_type": "practitioner_library",
+    "title": "[:en]Children and AIDS: A Stocktaking Report[:]",
+    "slug": "children-and-aids-a-stocktaking-report",
+    "date": "2021-07-25 08:16:02",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/particular-threats-to-childrens-care-and-protection/children-affected-by-hiv-and-aids/children-and-aids-a-stocktaking-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 5065,
+    "post_type": "practitioner_library",
+    "title": "[:en]Report of the 2nd Pan-African Conference on Parenting 2013[:]",
+    "slug": "report-of-the-2nd-pan-african-conference-on-parenting-2013",
+    "date": "2021-07-25 08:14:07",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/child-care-and-protection-policies/report-of-the-2nd-pan-african-conference-on-parenting-2013",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4726,
+    "post_type": "practitioner_library",
+    "title": "[:en]Report on the Transition from Institutional Care to Community-Based Services in 27 EU Member States[:]",
+    "slug": "report-on-the-transition-from-institutional-care-to-community-based-services-in-27-eu-member-states",
+    "date": "2021-07-25 08:00:23",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/transforming-institutional-care/report-on-the-transition-from-institutional-care-to-community-based-services-in-27-eu-member-states",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4742,
+    "post_type": "practitioner_library",
+    "title": "[:en]Endline Evaluation Report of Deinstitutionalization of Orphans and Vulnerable Children Project in Uganda[:]",
+    "slug": "endline-evaluation-report-of-deinstitutionalization-of-orphans-and-vulnerable-children-project-in-uganda",
+    "date": "2021-07-25 07:57:43",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/transforming-institutional-care/endline-evaluation-report-of-deinstitutionalization-of-orphans-and-vulnerable-children-project-in",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4744,
+    "post_type": "practitioner_library",
+    "title": "[:en]ChildFund Deinstitutionalization of Vulnerable Children in Uganda (DOVCU) Final Report[:]",
+    "slug": "childfund-deinstitutionalization-of-vulnerable-children-in-uganda-dovcu-final-report",
+    "date": "2021-07-25 07:57:23",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/transforming-institutional-care/childfund-deinstitutionalization-of-vulnerable-children-in-uganda-dovcu-final-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4763,
+    "post_type": "practitioner_library",
+    "title": "[:en]Strong Beginnings – A family for all children: End of Project Evaluation Report[:]",
+    "slug": "strong-beginnings-a-family-for-all-children-end-of-project-evaluation-report",
+    "date": "2021-07-25 07:54:13",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/the-continuum-of-care/foster-care/strong-beginnings-%E2%80%93-a-family-for-all-children-end-of-project-evaluation-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4778,
+    "post_type": "practitioner_library",
+    "title": "[:en]USAID/ DCOF – Three Country Child Care Reform Exchange Workshop Report[:]",
+    "slug": "usaid-dcof-three-country-child-care-reform-exchange-workshop-report",
+    "date": "2021-07-25 07:51:43",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/social-welfare-systems/child-care-and-protection-system-reforms/usaid-dcof-%E2%80%93-three-country-child-care-reform-exchange-workshop-report",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 4798,
+    "post_type": "practitioner_library",
+    "title": "[:en]Ending the Placement of Children under Three in Institutions: Report from the International Ministerial Conference, Sofia, November 2012.[:]",
+    "slug": "ending-the-placement-of-children-under-three-in-institutions-report-from-the-international-ministerial-conference-sofia-november-2012",
+    "date": "2021-07-25 07:48:23",
+    "excerpt": "",
+    "content": "",
+    "external_link": "https://www.bettercarenetwork.org/library/principles-of-good-care-practices/transforming-institutional-care/ending-the-placement-of-children-under-three-in-institutions-report-from-the-international",
+    "terms": [
+      {
+        "name": "[:en]Case Studies[:kh]ករណីសិក្សា[:]",
+        "slug": "case-studies",
+        "taxonomy": "library_resource_type"
+      }
+    ],
+    "local_files": [],
+    "source_sql": "mysql_db-backup/rathalor_fcf_v2.sql",
+    "source_db": "tmp_story_3"
+  },
+  {
+    "id": 3540,
+    "post_type": "wpdmpro",
+    "title": "Study Report on Good Practices in Family  Preservation and Prevention of  Family Separation Programming  in Cambodia (Khmer)",
+    "slug": "study-report-on-good-practices-in-family-preservation-and-prevention-of-family-separation-programming-in-cambodia-khmer",
+    "date": "2021-06-28 17:40:41",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Child Protection[:]",
+        "slug": "child-protection"
+      },
+      {
+        "name": "[:en]Learning Space[:]",
+        "slug": "learning-space"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Cambodia-Family-Preservation-Study-full-Khm.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 3539,
+    "post_type": "wpdmpro",
+    "title": "Study Report on Good Practices in Family  Preservation and Prevention of  Family Separation Programming  in Cambodia (Eng)",
+    "slug": "study-report-on-good-practices-in-family-preservation-and-prevention-of-family-separation-programming-in-cambodia-eng",
+    "date": "2021-06-28 17:38:58",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Child Protection[:]",
+        "slug": "child-protection"
+      },
+      {
+        "name": "[:en]Learning Space[:]",
+        "slug": "learning-space"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Cambodia-Family-Preservation-Study-full-Eng.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 3538,
+    "post_type": "wpdmpro",
+    "title": "Report on RESULTS OF THE IMPLEMENTATION OF THE ACTION PLAN FOR  IMPROVING CHILD CARE (Eng)",
+    "slug": "report-on-results-of-the-implementation-of-the-action-plan-for-improving-child-care-eng",
+    "date": "2021-06-28 17:38:01",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Child Protection[:]",
+        "slug": "child-protection"
+      },
+      {
+        "name": "[:en]Learning Space[:]",
+        "slug": "learning-space"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/30-Actional-Plan-Improving-Child-Care-Progress-Report-Eng-1-1.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 3537,
+    "post_type": "wpdmpro",
+    "title": "Report on RESULTS OF THE IMPLEMENTATION OF THE ACTION PLAN FOR  IMPROVING CHILD CARE (Khmer)",
+    "slug": "report-on-results-of-the-implementation-of-the-action-plan-for-improving-child-care-khmer",
+    "date": "2021-06-28 17:36:40",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Child Protection[:]",
+        "slug": "child-protection"
+      },
+      {
+        "name": "[:en]Learning Space[:]",
+        "slug": "learning-space"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/30-Action-Plan-Improving-Child-Care-Progress-Report-Khmer-1.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 3375,
+    "post_type": "wpdmpro",
+    "title": "FCF-REACT Food Security and Livelihoods Baseline-PDM Final",
+    "slug": "fcf-react-food-security-and-livelihoods-baseline-pdm-final",
+    "date": "2021-05-03 14:51:09",
+    "excerpt": "",
+    "content": "<div class=\"bi6gxh9e\"><span class=\"d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh jq4qci2q a3bd9o3v knj5qynh oo9gr5id\">Check out some of the latest findings of the baseline survey (including with post cash distribution monitoring questions) led by an external consultant to 70 households (10% of the total caseload):</span></div>\r\n<ul class=\"bi6gxh9e aov4n071 fjf4s8hc mf5omzu7\">\r\n \t<li>\r\n<div class=\"bi6gxh9e\"><span class=\"d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh jq4qci2q a3bd9o3v knj5qynh oo9gr5id\">96% agree that the cash transfers are the most effective form of assistance to help their family;</span></div></li>\r\n \t<li>\r\n<div class=\"bi6gxh9e\"><span class=\"d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh jq4qci2q a3bd9o3v knj5qynh oo9gr5id\">100% of households report that receiving cash assistance has helped to address child protection concerns for the child in their care;</span></div></li>\r\n \t<li>\r\n<div class=\"bi6gxh9e\"><span class=\"d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh jq4qci2q a3bd9o3v knj5qynh oo9gr5id\">95% with same number of children agree that the cash transfer made it possible to keep their children within the caregiver by enabling children to study (46%), to have enough food (42%) or to not have to work (23%);</span></div></li>\r\n \t<li>\r\n<div class=\"bi6gxh9e\"><span class=\"d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh jq4qci2q a3bd9o3v knj5qynh oo9gr5id\">4% claimed that they can fulfil all their basic needs, followed by 27% who can fulfil most of their basic needs whilst most (69%) can still only fulfil some of them. None of the respondents claimed that they were unable to fulfil any of their basic needs which is positive;</span></div></li>\r\n \t<li>\r\n<div class=\"bi6gxh9e\"><span class=\"d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh jq4qci2q a3bd9o3v knj5qynh oo9gr5id\">99% reported they need support to restore existing/develop new livelihood activities</span></div></li>\r\n</ul>",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Child Protection[:]",
+        "slug": "child-protection"
+      },
+      {
+        "name": "[:en]Learning Space[:]",
+        "slug": "learning-space"
+      },
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF-REACT FSL Baseline-PDM Report_FINAL.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 3374,
+    "post_type": "wpdmpro",
+    "title": "SCI Cambodia_Livelihood Assessment Report",
+    "slug": "sci-cambodia_livelihood-assessment-report",
+    "date": "2021-05-03 14:48:15",
+    "excerpt": "",
+    "content": "<div class=\"kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q\">\r\n<div dir=\"auto\">To what extent market-based approach may be integrated into the provision of case management services?</div>\r\n<div dir=\"auto\"></div>\r\n</div>\r\n<div class=\"o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q\">\r\n<div dir=\"auto\">In an attempt to demystify the risks and opportunities that cash-based assistance may entail to reduce the risks of family separation, FCF-REACT partners are implementing a child-sensitive cash &amp; livelihood assistance program aiming at mitigating the secondary impacts of COVID-19 and at achieving child protection outcomes.</div>\r\n<div dir=\"auto\"></div>\r\n</div>\r\n<div class=\"o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q\">\r\n<div dir=\"auto\">Targeted households are already receiving case management, are at risk of family separation or have been recently reintegrated.</div>\r\n<div dir=\"auto\"></div>\r\n</div>\r\n<div class=\"o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q\">\r\n<div dir=\"auto\">As part of this exciting journey, FCF-REACT partners have engaged in a livelihood assessment to better understand the socio-economic impacts of COVID-19 on their client households, their capabilities, their livelihood preferences and the barriers they may face to restore/develop livelihood activities.</div>\r\n</div>",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Child Protection[:]",
+        "slug": "child-protection"
+      },
+      {
+        "name": "[:en]Learning Space[:]",
+        "slug": "learning-space"
+      },
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/SCI Cambodia_Livelihood Assessment Report.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 2245,
+    "post_type": "wpdmpro",
+    "title": "Investing in Innovation_Transformation of the Dominant Care Model",
+    "slug": "investing-in-innovation_transformation-of-the-dominant-care-model",
+    "date": "2019-09-03 09:40:50",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Investing in Innovation_Transformation of the Dominant Care Model.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 2244,
+    "post_type": "wpdmpro",
+    "title": "FCF | REACT Promising Practices",
+    "slug": "fcf-react-promising-practices",
+    "date": "2019-09-02 17:22:05",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF-REACT Promising Practices Review_FINAL.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 2239,
+    "post_type": "wpdmpro",
+    "title": "Gender Intersectionality and Family Separation Alternative Care and  the Reintegration of Children",
+    "slug": "gender-intersectionality-and-family-separation-alternative-care-and-the-reintegration-of-children",
+    "date": "2019-08-27 15:57:43",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Gender Intersectionality and Family Separation Alternative Care and  the Reintegration of Children 23 July 2019_reformat.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 2233,
+    "post_type": "wpdmpro",
+    "title": "FCF | REACT-Report-Template-July 21-KH",
+    "slug": "fcf-react-report-template-08-19-kh",
+    "date": "2019-08-22 16:30:06",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]FCF Templates[:]",
+        "slug": "fcf-templates"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF-REACT-Report-Template-07.21-KH.docx"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 2232,
+    "post_type": "wpdmpro",
+    "title": "FCF | REACT-Report-Template-July 21-ENG",
+    "slug": "fcf-react-report-template-08-19-eng",
+    "date": "2019-08-22 16:29:21",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]FCF Templates[:]",
+        "slug": "fcf-templates"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF-REACT-Report-Template-07.21-ENG.docx"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 2106,
+    "post_type": "wpdmpro",
+    "title": "Guideline on How to complete New Case Management published by MoSVY",
+    "slug": "guideline-on-how-to-complete-new-case-management-published-by-mosvy",
+    "date": "2019-07-01 12:33:34",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Guildeline on how to complete New Case Management form.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1851,
+    "post_type": "wpdmpro",
+    "title": "Promoting and Protecting the Rights of Children: A Formative Evaluation of UNICEF’S Child Protection Programme in Cambodia",
+    "slug": "promoting-and-protecting-the-rights-of-children-a-formative-evaluation-of-unicefs-child-protection-programme-in-cambodia",
+    "date": "2019-03-07 10:56:48",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/2018-09-28-Formative-Evaluation-Child-Protection-Annexes-Volume-II.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1850,
+    "post_type": "wpdmpro",
+    "title": "Analysis of Situation of Children and Women in Cambodia- Updated Version",
+    "slug": "analysis-of-situation-of-children-and-women-in-cambodia-updated-version",
+    "date": "2019-03-07 10:51:27",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/UNICEF_Cambodia_SitAn_2018.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1849,
+    "post_type": "wpdmpro",
+    "title": "To Become a Young Man",
+    "slug": "to-become-a-young-man",
+    "date": "2019-03-07 10:50:23",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/To_Become_a_young_man_final(1).pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1848,
+    "post_type": "wpdmpro",
+    "title": "The child poverty report in Cambodia - Kh",
+    "slug": "the-child-poverty-report-in-cambodia-kh",
+    "date": "2019-03-07 10:48:38",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Summary_Report_size_A4_Kh_V8.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1847,
+    "post_type": "wpdmpro",
+    "title": "The child poverty report in Cambodia - Eng",
+    "slug": "the-child-poverty-report-in-cambodia-eng",
+    "date": "2019-03-07 10:47:27",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Summary_Report_ENG_A4_V8.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1846,
+    "post_type": "wpdmpro",
+    "title": "A statistical profile of child protection in Cambodia - Eng",
+    "slug": "a-statistical-profile-of-child-protection-in-cambodia-eng",
+    "date": "2019-03-07 10:46:01",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Cambodia_Report_Final_web_ready_HIGH.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1844,
+    "post_type": "wpdmpro",
+    "title": "A statistical profile of child protection in Cambodia - Kh",
+    "slug": "a-statistical-profile-of-child-protection-in-cambodia-kh",
+    "date": "2019-03-07 10:40:53",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Cambodia_Report_Final_Khmer.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1843,
+    "post_type": "wpdmpro",
+    "title": "Capacity Development Plan for family support, foster care and adoption - Eng",
+    "slug": "capacity-development-plan-for-family-support-foster-care-and-adoption-eng",
+    "date": "2019-03-07 10:39:30",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/DEVELOPMENT_PLAN_EN_LOWRES.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1842,
+    "post_type": "wpdmpro",
+    "title": "Capacity Development Plan for family support, foster care and adoption - Kh",
+    "slug": "capacity-development-plan-for-family-support-foster-care-and-adoption-kh",
+    "date": "2019-03-07 10:38:29",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/DEVELOPMENT_PLAN_Kh_LOWRES.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1841,
+    "post_type": "wpdmpro",
+    "title": "Study on alternative care community practices for children in Cambodia - Eng",
+    "slug": "study-on-alternative-care-community-practices-for-children-in-cambodia-eng",
+    "date": "2019-03-07 10:36:36",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Alternative_Care_Community_Practices-EN.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1840,
+    "post_type": "wpdmpro",
+    "title": "Study on alternative care community practices for children in Cambodia - Kh",
+    "slug": "study-on-alternative-care-community-practices-for-children-in-cambodia-kh",
+    "date": "2019-03-07 10:35:05",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/Alternative_Care_for_Children_Kh-lowres.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1839,
+    "post_type": "wpdmpro",
+    "title": "Child Protection and Education Needs for the Children and Adolescents of Phnom Penh's Urban Poor Communities - Eng",
+    "slug": "child-protection-and-education-needs-for-the-children-and-adolescents-of-phnom-penhs-urban-poor-communities-eng",
+    "date": "2019-03-07 10:32:31",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/20181112_URBAN_POOR_FULL_REPORT_ENG.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1838,
+    "post_type": "wpdmpro",
+    "title": "Child Protection and Education Needs for the Children and Adolescents of Phnom Penh's Urban Poor Communities - Kh",
+    "slug": "child-protection-and-education-needs-for-the-children-and-adolescents-of-phnom-penhs-urban-poor-communities-kh",
+    "date": "2019-03-07 10:30:58",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/20181112_URBAN_POOR_FULL_REPORT_KHM.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1837,
+    "post_type": "wpdmpro",
+    "title": "Juvenile Justice Law Strategic and Operational Plan - Eng",
+    "slug": "juvenile-justice-law-strategic-and-operational-plan-eng",
+    "date": "2019-03-07 10:28:56",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/JJLSOP_Eng.PDF"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1835,
+    "post_type": "wpdmpro",
+    "title": "Juvenile Justice Law Strategic and Operational Plan - Kh",
+    "slug": "juvenile-justice-law-strategic-and-operational-plan-kh",
+    "date": "2019-03-07 10:27:29",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "[:en]Research Document[:]",
+        "slug": "research-document"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/JJLSOP_Khmer.pdf"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_db.sql",
+    "source_db": "tmp_story_1"
+  },
+  {
+    "id": 1687,
+    "post_type": "wpdmpro",
+    "title": "FCF Report Template – Kh",
+    "slug": "fcf-report-template-kh",
+    "date": "2019-01-18 15:21:03",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "Downloadable Material",
+        "slug": "downloadable-material"
+      },
+      {
+        "name": "FCF Templates",
+        "slug": "fcf-templates"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF-Report-Template-KH.docx"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_db.sql",
+    "source_db": "tmp_story_4"
+  },
+  {
+    "id": 1686,
+    "post_type": "wpdmpro",
+    "title": "FCF Report Template – Eng",
+    "slug": "fcf-report-template-eng",
+    "date": "2019-01-18 15:19:35",
+    "excerpt": "",
+    "content": "",
+    "external_link": "",
+    "terms": [
+      {
+        "name": "Downloadable Material",
+        "slug": "downloadable-material"
+      },
+      {
+        "name": "FCF Templates",
+        "slug": "fcf-templates"
+      }
+    ],
+    "local_files": [
+      "files/download-manager-files/FCF-Report-Template-ENG.docx"
+    ],
+    "source_sql": "mysql_db-backup/rathalor_fcf_db.sql",
+    "source_db": "tmp_story_4"
+  }
+]

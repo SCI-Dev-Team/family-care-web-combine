@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Family Care First — Data &amp; Reports</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Open Sans", Arial, sans-serif;
+      color: #222;
+      background: #f8f9fa;
+    }
+    .site-header {
+      background: linear-gradient(180deg, #52bac9 0%, #2aa4b6 100%);
+      color: #fff;
+      padding: 48px 24px 56px;
+      text-align: center;
+    }
+    .site-header h1 {
+      margin: 0 0 8px;
+      font-size: 38px;
+      font-weight: 700;
+    }
+    .site-header p {
+      margin: 0;
+      opacity: 0.95;
+      font-size: 18px;
+    }
+    .container {
+      width: 92%;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    main {
+      padding: 48px 0 64px;
+    }
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 24px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      overflow: hidden;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+    .card-banner {
+      height: 120px;
+      background: linear-gradient(135deg, #52bac9 0%, #2aa4b6 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 32px;
+      font-weight: 700;
+    }
+    .card-body {
+      padding: 24px;
+    }
+    .card-body h2 {
+      margin: 0 0 8px;
+      font-size: 20px;
+      font-weight: 600;
+      color: #0f0d0d;
+    }
+    .card-body p {
+      margin: 0;
+      font-size: 14px;
+      color: #555;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;padding:0 0 16px;">
+      <a href="./" style="color:#fff;text-decoration:none;font-weight:600;">Home</a>
+      <a href="posts/" style="color:#fff;text-decoration:none;font-weight:600;">Posts</a>
+      <a href="stories/" style="color:#fff;text-decoration:none;font-weight:600;">Stories</a>
+      <a href="reports/" style="color:#fff;text-decoration:none;font-weight:600;">Reports</a>
+    </nav>
+    <h1>Family Care First</h1>
+    <p>Data extraction &amp; reports</p>
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="card-grid">
+        <a class="card" href="posts/">
+          <div class="card-banner">Posts</div>
+          <div class="card-body">
+            <h2>Posts &amp; News</h2>
+            <p>Browse the post archive from extracted JSON.</p>
+          </div>
+        </a>
+        <a class="card" href="stories/">
+          <div class="card-banner">Stories</div>
+          <div class="card-body">
+            <h2>Family Care First Stories</h2>
+            <p>Story archive rendered from extracted JSON.</p>
+          </div>
+        </a>
+        <a class="card" href="reports/">
+          <div class="card-banner">Reports</div>
+          <div class="card-body">
+            <h2>Reports &amp; Research</h2>
+            <p>Reports and research documents archive.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </main>
+</body>
+</html>
