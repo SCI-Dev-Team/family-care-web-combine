@@ -3,123 +3,374 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Family Care First — Data &amp; Reports</title>
+  <title>Family Care First — Strengthening Families in Cambodia</title>
   <style>
-    * { box-sizing: border-box; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
-      margin: 0;
       font-family: "Open Sans", Arial, sans-serif;
-      color: #222;
+      color: #333;
       background: #f8f9fa;
+      line-height: 1.6;
     }
-    .site-header {
-      background: linear-gradient(180deg, #52bac9 0%, #2aa4b6 100%);
-      color: #fff;
-      padding: 48px 24px 56px;
-      text-align: center;
+
+    /* ── Navigation ─────────────────────────────── */
+    .site-nav {
+      position: sticky; top: 0; z-index: 100;
+      display: flex; flex-wrap: wrap; align-items: center;
+      justify-content: center; gap: 8px;
+      background: linear-gradient(135deg, #2aa4b6 0%, #1e8a9a 100%);
+      padding: 14px 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
     }
-    .site-header h1 {
-      margin: 0 0 8px;
-      font-size: 38px;
-      font-weight: 700;
+    .site-nav .brand {
+      font-size: 18px; font-weight: 700; color: #fff;
+      text-decoration: none; margin-right: auto;
+      letter-spacing: 0.3px;
     }
-    .site-header p {
-      margin: 0;
-      opacity: 0.95;
-      font-size: 18px;
+    .site-nav a:not(.brand) {
+      color: rgba(255,255,255,0.85); text-decoration: none;
+      font-size: 14px; font-weight: 600;
+      padding: 6px 16px; border-radius: 20px;
+      transition: background 0.2s, color 0.2s;
     }
-    .container {
-      width: 92%;
-      max-width: 1000px;
-      margin: 0 auto;
+    .site-nav a:not(.brand):hover,
+    .site-nav a.current {
+      background: rgba(255,255,255,0.2); color: #fff;
     }
-    main {
-      padding: 48px 0 64px;
+
+    /* ── Hero ───────────────────────────────────── */
+    .hero {
+      background: linear-gradient(160deg, #52bac9 0%, #2aa4b6 50%, #1e8a9a 100%);
+      color: #fff; text-align: center;
+      /* make hero cover the full viewport so banners are shown in full */
+      min-height: 100vh; padding: 0 24px;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      position: relative; overflow: hidden;
     }
+    /* Carousel inside hero (banners) */
+    .hero-carousel {
+      position: absolute; inset: 0; z-index: 0; display: block; width: 100%; height: 100%;
+      overflow: hidden;
+    }
+    .hero-carousel .slide {
+      position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+      opacity: 0; transition: opacity 800ms ease-in-out; will-change: opacity;
+    }
+    .hero-carousel .slide img {
+      width: 100%; height: 100%; object-fit: contain; display: block;
+      /* prevent the image from capturing pointer events */
+      pointer-events: none;
+    }
+    .hero-carousel .slide.active { opacity: 1; }
+    .hero-carousel::before {
+      /* subtle dark overlay for text readability */
+      content: ''; position: absolute; inset: 0; background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.18)); z-index: 1;
+      pointer-events: none;
+    }
+    .hero::after {
+      content: ''; position: absolute; bottom: -2px; left: 0; right: 0;
+      /* reduce wave height so it doesn't cut too much of the banner */
+      height: 28px;
+      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 60'%3E%3Cpath fill='%23f8f9fa' d='M0,30 C360,70 1080,-10 1440,30 L1440,60 L0,60Z'/%3E%3C/svg%3E") no-repeat bottom center/cover;
+      z-index: 0;
+    }
+  .hero h1 { font-size: 44px; font-weight: 800; margin-bottom: 12px; }
+  .hero h1, .hero .tagline, .hero .cta-row { position: relative; z-index: 3; }
+    .hero .tagline { font-size: 20px; opacity: 0.95; max-width: 640px; margin: 0 auto 28px; }
+    .hero .cta-row { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+    .hero .cta {
+      display: inline-block; padding: 12px 28px; border-radius: 24px;
+      font-size: 15px; font-weight: 600; text-decoration: none;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .hero .cta:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,0.18); }
+    .cta-primary { background: #fff; color: #2aa4b6; }
+    .cta-outline { background: transparent; color: #fff; border: 2px solid rgba(255,255,255,0.6); }
+    .cta-outline:hover { border-color: #fff; }
+
+    /* ── Container ──────────────────────────────── */
+    .container { width: 92%; max-width: 1060px; margin: 0 auto; }
+
+    /* ── Section basics ─────────────────────────── */
+    section { padding: 64px 0; }
+    section:nth-child(even) { background: #fff; }
+    .section-title {
+      text-align: center; font-size: 28px; font-weight: 700;
+      color: #1e8a9a; margin-bottom: 12px;
+    }
+    .section-subtitle {
+      text-align: center; font-size: 16px; color: #666;
+      max-width: 640px; margin: 0 auto 40px;
+    }
+
+    /* ── About / Mission ───────────────────────── */
+    .about-grid {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 40px; align-items: start;
+    }
+    .about-text h3 { font-size: 20px; color: #2aa4b6; margin-bottom: 8px; }
+    .about-text p { font-size: 15px; color: #444; margin-bottom: 16px; }
+
+    /* ── Stats ──────────────────────────────────── */
+    .stats-row {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 24px; text-align: center;
+    }
+    .stat-card {
+      background: #fff; border-radius: 12px; padding: 28px 16px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    }
+    .stat-number { font-size: 36px; font-weight: 800; color: #2aa4b6; }
+    .stat-label { font-size: 14px; color: #666; margin-top: 4px; }
+
+    /* ── Pillars ────────────────────────────────── */
+    .pillar-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 24px;
+    }
+    .pillar {
+      background: #fff; border-radius: 12px; padding: 32px 24px;
+      text-align: center; box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .pillar:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
+    .pillar-icon { font-size: 40px; margin-bottom: 12px; }
+  .pillar-icon img { width: 72px; height: 72px; object-fit: cover; border-radius: 8px; display: block; margin: 0 auto 12px; }
+    .pillar h3 { font-size: 18px; font-weight: 700; color: #1e8a9a; margin-bottom: 8px; }
+    .pillar p { font-size: 14px; color: #555; }
+
+    /* ── Explore cards ─────────────────────────── */
     .card-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
       gap: 24px;
     }
     .card {
-      background: #fff;
-      border-radius: 8px;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
-      overflow: hidden;
-      text-decoration: none;
-      color: inherit;
-      display: block;
+      background: #fff; border-radius: 12px; overflow: hidden;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      text-decoration: none; color: inherit; display: flex; flex-direction: column;
       transition: transform 0.2s, box-shadow 0.2s;
     }
-    .card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
-    }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
     .card-banner {
-      height: 120px;
-      background: linear-gradient(135deg, #52bac9 0%, #2aa4b6 100%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: #fff;
-      font-size: 32px;
-      font-weight: 700;
+      height: 180px; display: flex; align-items: center; justify-content: center;
+      color: #fff; font-size: 28px; font-weight: 700;
     }
-    .card-body {
-      padding: 24px;
+    .card-banner img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    /* Larger banner on wide screens */
+    @media (min-width: 1000px) {
+      .card-banner { height: 220px; }
     }
-    .card-body h2 {
-      margin: 0 0 8px;
-      font-size: 20px;
-      font-weight: 600;
-      color: #0f0d0d;
+    .card-banner.posts-bg   { background: linear-gradient(135deg, #52bac9, #3498db); }
+    .card-banner.stories-bg { background: linear-gradient(135deg, #43b89c, #2aa4b6); }
+    .card-banner.reports-bg { background: linear-gradient(135deg, #1e8a9a, #16697a); }
+    .card-body { padding: 24px; flex: 1; }
+    .card-body h3 { font-size: 18px; font-weight: 700; color: #222; margin-bottom: 6px; }
+    .card-body p { font-size: 14px; color: #555; }
+    .card-link {
+      display: inline-block; margin-top: 12px; font-size: 14px;
+      font-weight: 600; color: #2aa4b6;
     }
-    .card-body p {
-      margin: 0;
-      font-size: 14px;
-      color: #555;
-      line-height: 1.5;
+
+    /* ── Footer ─────────────────────────────────── */
+    .site-footer {
+      background: #1a2332; color: rgba(255,255,255,0.7);
+      text-align: center; padding: 32px 24px; font-size: 13px;
+    }
+    .site-footer a { color: #52bac9; text-decoration: none; }
+    .site-footer a:hover { text-decoration: underline; }
+
+    /* ── Responsive ─────────────────────────────── */
+    @media (max-width: 700px) {
+      .hero h1 { font-size: 30px; }
+      .hero .tagline { font-size: 16px; }
+      .about-grid { grid-template-columns: 1fr; }
+      .site-nav .brand { margin-right: 0; width: 100%; text-align: center; }
     }
   </style>
 </head>
 <body>
-  <header class="site-header">
-    <nav class="site-nav" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;padding:0 0 16px;">
-      <a href="./" style="color:#fff;text-decoration:none;font-weight:600;">Home</a>
-      <a href="posts/" style="color:#fff;text-decoration:none;font-weight:600;">Posts</a>
-      <a href="stories/" style="color:#fff;text-decoration:none;font-weight:600;">Stories</a>
-      <a href="reports/" style="color:#fff;text-decoration:none;font-weight:600;">Reports</a>
-    </nav>
-    <h1>Family Care First</h1>
-    <p>Data extraction &amp; reports</p>
-  </header>
 
-  <main>
+  <!-- Navigation -->
+  <nav class="site-nav">
+    <a class="brand" href="./">Family Care First</a>
+    <a href="./" class="current">Home</a>
+    <a href="posts/">Posts</a>
+    <a href="stories/">Stories</a>
+    <a href="reports/">Reports</a>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div id="hero-carousel" class="hero-carousel" aria-hidden="true"></div>
+    <h1>Family Care First</h1>
+    <p class="tagline">
+      Strengthening families and communities so every child in Cambodia can grow up
+      in a safe, nurturing family environment.
+    </p>
+    <div class="cta-row">
+      <a class="cta cta-primary" href="#about">Learn More</a>
+      <a class="cta cta-outline" href="#explore">Explore Data</a>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about">
     <div class="container">
+      <h2 class="section-title">About Family Care First</h2>
+      <p class="section-subtitle">
+        A coalition of organizations working together to reform child care in Cambodia — 
+        ensuring that no child grows up outside a family unnecessarily.
+      </p>
+      <div class="about-grid">
+        <div class="about-text">
+          <h3>Our Mission</h3>
+          <p>
+            Family Care First (FCF) is a coalition of NGOs, government partners, and community 
+            organizations dedicated to strengthening families in Cambodia. We work to prevent 
+            unnecessary family–child separation and ensure that children who cannot live with 
+            their families receive quality alternative care.
+          </p>
+          <h3>Why It Matters</h3>
+          <p>
+            Research consistently shows that children thrive best in family-based care. 
+            FCF promotes evidence-based approaches that keep families together, support 
+            community resilience, and reform the child protection and care system 
+            at every level.
+          </p>
+        </div>
+        <div class="about-text">
+          <h3>Our Approach</h3>
+          <p>
+            We combine direct service delivery, capacity building, advocacy, and 
+            research to drive systemic change. By coordinating across members 
+            we avoid duplication, share learnings, and amplify impact across 
+            Cambodia's 25 provinces.
+          </p>
+          <h3>Key Focus Areas</h3>
+          <p>
+            Family preservation &amp; reunification, kinship &amp; foster care, 
+            community-based child protection, social workforce strengthening, 
+            residential care reform, and evidence-driven policy advocacy.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Key Pillars -->
+  <section>
+    <div class="container">
+      <h2 class="section-title">Our Pillars</h2>
+      <p class="section-subtitle">
+        The coalition's work is guided by four strategic pillars that together 
+        create lasting change for children and families.
+      </p>
+      <div class="pillar-grid">
+        <div class="pillar">
+          <div class="pillar-icon"><img src="posts/images/2018/11/theara-new-home.jpg" alt="Family Preservation"></div>
+          <h3>Family Preservation</h3>
+          <p>Prevent unnecessary family–child separation through early intervention, parenting support, and economic strengthening.</p>
+        </div>
+        <div class="pillar">
+          <div class="pillar-icon"><img src="posts/images/2020/03/extended-family-illustration.png" alt="Alternative Care"></div>
+          <h3>Alternative Care</h3>
+          <p>Develop and expand quality kinship care, foster care, and supported independent living options.</p>
+        </div>
+        <div class="pillar">
+          <div class="pillar-icon"><img src="posts/images/2021/04/Safe-Home-Visit-1.jpeg" alt="Child Protection"></div>
+          <h3>Child Protection</h3>
+          <p>Strengthen community-based child protection mechanisms and social service workforce capacity.</p>
+        </div>
+        <div class="pillar">
+          <div class="pillar-icon"><img src="posts/images/2020/03/MoSVY_landscape.png" alt="Evidence & Advocacy"></div>
+          <h3>Evidence &amp; Advocacy</h3>
+          <p>Generate research, data, and evidence to inform policy reform and best practices in child care.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Explore Data -->
+  <section id="explore">
+    <div class="container">
+      <h2 class="section-title">Explore Our Archive</h2>
+      <p class="section-subtitle">
+        Dive into our collection of posts, stories, and research reports — all 
+        extracted and organized for easy access.
+      </p>
       <div class="card-grid">
         <a class="card" href="posts/">
-          <div class="card-banner">Posts</div>
+          <div class="card-banner posts-bg"><img src="posts/images/2018/11/banner5.jpg" alt="Posts banner"></div>
           <div class="card-body">
-            <h2>Posts &amp; News</h2>
-            <p>Browse the post archive from extracted JSON.</p>
+            <h3>Posts &amp; News</h3>
+            <p>Browse the latest news, updates, and announcements from the FCF coalition and its partners.</p>
+            <span class="card-link">Browse Posts →</span>
           </div>
         </a>
         <a class="card" href="stories/">
-          <div class="card-banner">Stories</div>
+          <div class="card-banner stories-bg"><img src="posts/images/2020/03/banner2.jpg" alt="Stories banner"></div>
           <div class="card-body">
-            <h2>Family Care First Stories</h2>
-            <p>Story archive rendered from extracted JSON.</p>
+            <h3>Impact Stories</h3>
+            <p>Read real stories of families and children whose lives have been transformed through care reform.</p>
+            <span class="card-link">Read Stories →</span>
           </div>
         </a>
         <a class="card" href="reports/">
-          <div class="card-banner">Reports</div>
+          <div class="card-banner reports-bg"><img src="posts/images/2020/03/banner4.jpg" alt="Reports banner"></div>
           <div class="card-body">
-            <h2>Reports &amp; Research</h2>
-            <p>Reports and research documents archive.</p>
+            <h3>Reports &amp; Research</h3>
+            <p>Access evaluations, research studies, and policy documents that inform our work.</p>
+            <span class="card-link">View Reports →</span>
           </div>
         </a>
       </div>
     </div>
-  </main>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <p>
+      &copy; Family Care First Coalition &mdash; 
+      <a href="posts/">Posts</a> · <a href="stories/">Stories</a> · <a href="reports/">Reports</a>
+    </p>
+  </footer>
+
+  <script>
+    // Hero banner carousel: use explicit banner file paths under posts/images/
+    (function () {
+      const BANNERS = [
+        'posts/images/2018/11/banner5.jpg',
+        'posts/images/2020/03/banner2.jpg',
+        'posts/images/2020/03/banner4.jpg'
+      ];
+      const container = document.getElementById('hero-carousel');
+      if (!container) return;
+
+      const slides = [];
+      BANNERS.forEach(function (src) {
+        // create slide
+        const slide = document.createElement('div');
+        slide.className = 'slide';
+        slide.style.backgroundImage = 'url("' + src + '")';
+        container.appendChild(slide);
+        slides.push(slide);
+
+        // preload
+        const img = new Image(); img.src = src;
+      });
+
+      if (slides.length === 0) return;
+      let current = 0;
+      slides[0].classList.add('active');
+      // rotate every 4s
+      setInterval(function () {
+        slides[current].classList.remove('active');
+        current = (current + 1) % slides.length;
+        slides[current].classList.add('active');
+      }, 4000);
+    })();
+  </script>
+
 </body>
 </html>
